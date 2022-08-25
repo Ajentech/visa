@@ -4,3 +4,5 @@
 #python('Hello World') 
 #= python script  
 print('hello world')
+print('card services automated')
+print('hello $user your card need servicing')
